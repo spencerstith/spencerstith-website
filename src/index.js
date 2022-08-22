@@ -8,7 +8,7 @@ import ProjectDetail from './pages/projects/ProjectDetail';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/spencerstith-website" >
     <Routes>
       <Route path="/" element={<App />}>
         <Route path="" element={<Home />} />
