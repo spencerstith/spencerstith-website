@@ -1,0 +1,1 @@
+export const fromAngle = (p5, angle) => p5.createVector(Math.cos(angle), Math.sin(angle));

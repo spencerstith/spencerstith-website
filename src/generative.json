@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "title": "Backtracking Sudoku Solver",
+      "tag": "Algorithms",
+      "language": "p5.js",
+      "description": "This using recursive backtracking to solve any Sudoku board. It is slightly modified in order to draw progress every frame.",
+      "name": "sudoku"
+    },
+    {
+      "title": "Maze Generator",
+      "tag": "Algorithms",
+      "language": "p5.js",
+      "description": "Creates a maze from a grid of cells using stack data structures and random choice. Inspired by Dan Shiffman.",
+      "name": "maze"
+    },
+    {
+      "title": "Times Tables",
+      "tag": "Algorithms",
+      "language": "p5.js",
+      "description": "Connection between the Mandelbrot Set and times tables. Inspired by Mathologer on YouTube.",
+      "name": "ttables"
+    },
+    {
+      "title": "Purple Rain",
+      "tag": "Generative",
+      "language": "p5.js",
+      "description": "I made this for my wife when she was out of town. It says 'i miss you' over some purple rain.",
+      "name": "purpleRain"
+    },
+    {
+      "title": "Circle Intersections",
+      "tag": "Algorithms",
+      "language": "p5.js",
+      "description": "Intersections between horizontal and vertical circles at different rates.",
+      "name": "intersections"
+    },
+    {
+      "title": "Typical Snake",
+      "tag": "Game",
+      "language": "p5.js",
+      "description": "Your typical snake game. Minimal with nice colors. WASD to  move.",
+      "name": "snake"
+    },
+    {
+      "title": "Fountain",
+      "tag": "Visual",
+      "language": "p5.js",
+      "description": "Just a random small project I made to replicate the physics of water fountains.",
+      "name": "fountain"
+    },
+    {
+      "title": "Hair",
+      "tag": "Mathematics",
+      "language": "p5.js",
+      "description": "Particles following a vector field. Turns out that looks like hair.",
+      "name": "hair"
+    }
+  ]
+}
